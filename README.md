@@ -12,32 +12,32 @@ V1.3??? (features that may be added soon)
 
 
 V1.1 ---> V1.2 ❄
-[+] Added C4 Dupe gui
-[+] Added "!c4" command
-[*] Fixed "!spherew" command
+- [+] Added C4 Dupe gui
+- [+] Added "!c4" command
+- [*] Fixed "!spherew" command
 
 
 
 
 V1 ---> V1.1
-[+] Added "!sphereg" command
-[+] Added "!spheref" command
-[+] Added "!spherew" command
-[+] Added "!spherep" command
+- [+] Added "!sphereg" command
+- [+] Added "!spheref" command
+- [+] Added "!spherew" command
+- [+] Added "!spherep" command
 
 
 
 
 V1
-[+] Added "!grenade" command
-[+] Added "!g" command
-[+] Added "!firebomb" command
-[+] Added "!fire" command
-[+] Added "!f" command
-[+] Added "!waterflask" command
-[+] Added "!water" command
-[+] Added "!w" command
-[+] Added "!poisonflask" command
-[+] Added "!poison" command
-[+] Added "!p" command
-[*] Released to the public
+- [+] Added "!grenade" command
+- [+] Added "!g" command
+- [+] Added "!firebomb" command
+- [+] Added "!fire" command
+- [+] Added "!f" command
+- [+] Added "!waterflask" command
+- [+] Added "!water" command
+- [+] Added "!w" command
+- [+] Added "!poisonflask" command
+- [+] Added "!poison" command
+- [+] Added "!p" command
+- [*] Released to the public
